@@ -1,4 +1,4 @@
-# The Trinity Ethereum 2.0 Client
+# The Trinity Vapory 2.0 Client
 
 [![Join the chat at https://gitter.im/ethereum/trinity](https://badges.gitter.im/ethereum/trinity.svg)](https://gitter.im/ethereum/trinity)
 [![CircleCI](https://circleci.com/gh/ethereum/trinity-eth2/tree/master.svg?style=shield)](https://circleci.com/gh/ethereum/trinity-eth2/tree/master)
